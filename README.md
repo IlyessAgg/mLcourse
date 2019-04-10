@@ -1,2 +1,4 @@
 # mLcourse
-Machine Learning course.
+> Following a Machine Learning course.
+
+[mlcourse.ai](https://mlcourse.ai/)
