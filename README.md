@@ -1,4 +1,6 @@
-# mLcourse
+# Machine Learning Course - [mlcourse.ai](https://mlcourse.ai/)
 > Following a Machine Learning course.
 
-[mlcourse.ai](https://mlcourse.ai/)
+![header](https://mlcourse.ai/images/ods_stickers.jpg)
+
+
