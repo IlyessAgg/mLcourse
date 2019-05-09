@@ -11,11 +11,11 @@ This repository holds the Notebooks used as ressource to understand the concepts
 
 ## 🎯 Concepts
 
-- **[Week 1](Week 1)** : Introduction to Deep Learning.
+- **[Week 1](Week%201)** : Introduction to Deep Learning.
 
-- **[Week 2](Week 2)** : Neural Network Basics.
+- **[Week 2](Week%202)** : Neural Network Basics.
 
-- **[Week 3](Week 3)** : Shallow Neural Networks.
+- **[Week 3](Week%203)** : Shallow Neural Networks.
 
-- **[Week 4](Week 4)** : Deep Neural Networks.
+- **[Week 4](Week%204)** : Deep Neural Networks.
 
