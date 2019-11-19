@@ -2,7 +2,7 @@
 > Sentiment analysis using Python.
 
 <p align='center'>
-  <img src="sarcasm.png" width="912" height="884"/>
+  <img src="sarcasm.png" width="413" height="400"/>
 </p>
 
 ## Description
