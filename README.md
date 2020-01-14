@@ -7,11 +7,16 @@
 
 ## 📗 Courses
 
-- **[[ESILV] Engineering School](https://www.esilv.fr/en/)** - Courses touching different aspects of machine learning.
+- **[[ESILV] Engineering School](https://www.esilv.fr/en/)** - Courses touching different aspects of machine learning.  
+  - [Advanced Machine Learning for NLP](https://github.com/IlyessAgg/mLcourse/tree/master/%5BESILV%5D%20Machine%20learning/Advanced%20Machine%20Learning%20for%20NLP) - Sentiment analysis, Text Processing and Deep Learning architectures (LSTM, CNN, RNN ...).  
+  - [Python for Data Analysis](https://github.com/IlyessAgg/TDs_ESILV) - This course makes us go through a variety of Python applications.  
+    - **Topics** : Web Scrapping (BeautifulSoup, Selenium), Data analysis (pandas, seaborn ...), Machine learning (scitkit-learn, keras), Deep Learning (LSTM, CNN, RNN), Django API.
 
 - **[mlcourse.ai](https://mlcourse.ai/)** - Global machine learning course.
 
-- **[[Coursera] Data Science in Stratified Healthcare and Precision Medicine](https://www.coursera.org/learn/datascimed)** - Machine learning in healthcare.
+- **[[Coursera] Data Science in Stratified Healthcare and Precision Medicine](https://www.coursera.org/learn/datascimed)** - Machine learning in healthcare.  
+  - **Summary** : This course aims at understanding the vast variety of applications of Data Science in the medical field. It also helps us understand the different challenges of these applications through multiple interviews of experts in the field.
+  - **Topics** : Machine learning, Image visualization (analysis of DICOM images), NLP and Graph Data (RDF).
 
 - **[[Coursera] Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (ongoing)** - Set of courses on Deep learning offered by [deeplearning.ai](https://deeplearning.ai/).
   1. [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) - Introducing the fundations of deep learning.
@@ -20,6 +25,7 @@
   4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) - Building & Applications.
   5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) - Building & Applications.
   
-- **[introtodeeplearning](http://introtodeeplearning.com/)** - MIT's introductory course on deep learning methods and applications.
+- **[introtodeeplearning](http://introtodeeplearning.com/)** - MIT's introductory course on deep learning methods and applications.  
+  - **Topics** : Deep Learning architectures (CNN, RNN, LSTM ...) , Text Generation, Handwritten Digit Classification.
 
 
