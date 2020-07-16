@@ -1,8 +1,6 @@
 # MIT 6.S191 Lab 2: Computer Vision
 
-<p align='center'>
-  <img src="img/computer-vision.jpg"/>
-</p>
+![alt text](img/object-recognition-image.png)
 
 ## Part 1: MNIST Digit Classification
 In the first portion of this lab, we will build and train a convolutional neural network (CNN) for classification of handwritten digits from the famous [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. The MNIST dataset consists of 60,000 training images and 10,000 test images. Our classes are the digits 0-9.
