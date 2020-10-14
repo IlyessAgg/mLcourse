@@ -7,7 +7,7 @@
 
 ## 📗 Courses
 
-- **[[Coursera] AI For Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) (ongoing)** - Set of courses aimed at applying machine learning to concrete problems in medicine. Offered by [deeplearning.ai](https://deeplearning.ai/).
+- **[[Coursera] AI For Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)** - Set of courses aimed at applying machine learning to concrete problems in medicine. Offered by [deeplearning.ai](https://deeplearning.ai/).
   1. [AI For Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) - How can AI be applied to medical imaging to diagnose diseases ?
   2. [AI For Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) - AI approaches to prognostic tasks.
   3. [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) - Using AI to estimate treatment effects and extract information from medical reports.
@@ -15,6 +15,11 @@
 - **[[Coursera] Data Science in Stratified Healthcare and Precision Medicine](https://www.coursera.org/learn/datascimed)** - Machine learning in healthcare.  
   - **Summary** : This course aims at understanding the vast variety of applications of Data Science in the medical field. It also helps us understand the different challenges of these applications through multiple interviews of experts in the field.
   - **Topics** : Machine learning, Image visualization (analysis of DICOM images), NLP and Graph Data (RDF).
+  
+- **[[Coursera] Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)** - Introduction to image generation with GANs, charting a path from foundational concepts to advanced techniques through an easy-to-understand approach. It also covers social implications, including bias in ML and the ways to detect it, privacy preservation, and more. Offered by [deeplearning.ai](https://deeplearning.ai/).
+  1. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) - Understand, explore and implement multiple GAN architectures.
+  2. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) - GAN Evaluation, Disadvantages and Improvements.
+  3. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) - Explore and implement the applications of GANs.
 
 - **[[ESILV] Engineering School](https://www.esilv.fr/en/)** - Courses touching different aspects of machine learning.  
   - [Advanced Machine Learning for NLP](https://github.com/IlyessAgg/mLcourse/tree/master/%5BESILV%5D%20Machine%20learning/Advanced%20Machine%20Learning%20for%20NLP) - Sentiment analysis, Text Processing and Deep Learning architectures (LSTM, CNN, RNN ...).  
