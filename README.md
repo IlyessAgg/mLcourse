@@ -40,4 +40,7 @@
 - **[introtodeeplearning](http://introtodeeplearning.com/)** - MIT's introductory course on deep learning methods and applications.  
   - **Topics** : Deep Learning architectures (CNN, RNN, LSTM ...) , Text Generation, Handwritten Digit Classification.
 
+- **[[Coursera] Deep Learning with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch/)** - Develop deep learning models using  Pytorch. Offered by IBM.  
+  - **Topics** : Linear/Logistic Regression, Deep Neural Networks, Dropout, Batch Normalization, GD with momentum, CNNs.
+
 - **[mlcourse.ai](https://mlcourse.ai/)** - Global machine learning course.
