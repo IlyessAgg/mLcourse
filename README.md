@@ -43,4 +43,7 @@
 - **[[Coursera] Deep Learning with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch/)** - Develop deep learning models using  Pytorch. Offered by IBM.  
   - **Topics** : Linear/Logistic Regression, Deep Neural Networks, Dropout, Batch Normalization, GD with momentum, CNNs.
 
+- **[[Coursera] Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)** - Build intuition about designing a production ML system end-to-end: project scoping, data needs, modeling strategies, and deployment patterns and technologies. Offered by [deeplearning.ai](https://deeplearning.ai/).
+  - **Topics** : Data Pipelines, ML Lifecycle, Project Scoping and Design, Human-level performance (HLP), Concept Drift.
+
 - **[mlcourse.ai](https://mlcourse.ai/)** - Global machine learning course.
